@@ -1,0 +1,6 @@
+colores
+header
+#171a21
+nav
+rgba( 103, 193, 245, 0.4 );
+#1b2838
